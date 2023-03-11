@@ -51,7 +51,7 @@ a {
   height: 150px;
   margin-bottom: 10px;
 }
-.skills {
+.skills, .projects {
   margin: 50px auto;
 }
 .contact-me {
@@ -61,7 +61,7 @@ a {
 .contact-me p {
   margin-bottom: 50px;
 }
-.skill-row {
+.skill-row, .project-row{
   width: 50%;
   margin: 100px auto;
 
@@ -81,10 +81,10 @@ a {
   width: 50%;
   margin: 50px auto;
 }
-#skill1 {
+#skill1, #project1 {
   float: left;
 }
-#skill2 {
+#skill2, #project2 {
   float: right;
 }
 hr {
